@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.each-app-container {
+  background-color: #ffffff;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  margin: 10px;
+}
+.app-icon {
+  height: 100px;
+  padding: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 0px;
+}
+.app-name {
+  color: #1e293b;
+  font-size: 18px;
+}
